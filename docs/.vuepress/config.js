@@ -1,7 +1,7 @@
 module.exports = {
   title: "WB-UNI",
-  base: "/wb-uni-doc/docs/",
-  dest: "../wb-uni-doc-h5/docs",
+  base: "/wb-uni-doc/",
+  dest: "./dist",
   theme: "reco",
   themeConfig: {
     // 备案
