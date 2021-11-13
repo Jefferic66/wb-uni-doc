@@ -19,10 +19,10 @@ module.exports = {
       { text: "样式", link: "/css/", icon: "reco-color" },
       { text: "JS", link: "/js/", icon: "reco-api" },
       // { text: "时间轴", link: "/timeline/", icon: "reco-date" },
-      { text: "演示", link: "https://jefferic.gitee.io/wb-uni-doc/demo/" },
+      { text: "演示", link: "https://jefferic66.github.io/wb-uni-demo/" },
       {
-        text: "Gitee",
-        link: "https://gitee.com/jefferic/wb-uni-template",
+        text: "GitHub",
+        link: "https://github.com/Jefferic66/wb-uni-template",
         icon: "reco-mayun",
       },
     ],
