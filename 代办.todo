@@ -1,0 +1,93 @@
+git config user.name "jefferic"
+git config user.email "jefferic1234@163.com"
+
+https://gitee.com/jefferic/mix-ui
+
+基础:
+  ✔ 基础环境 @started(21-03-26 16:58) @done(21-03-26 16:58) @lasted(26s)
+  ✔ 多语言 @done(21-03-26 16:58)
+  ✔ 清理scss @done(21-03-27 09:44)
+组件:
+  ✔ navbar @done(21-03-26 16:57)
+  ✔ empty @done(21-03-26 16:57)
+  ✔ button @done(21-03-26 17:26)
+  ✔ wb-layer @done(21-03-26 17:35)
+  ✔ loading @done(21-03-26 19:14)
+  ✔ page @done(21-03-26 19:20)
+  ✘ checkBtn @cancelled(21-03-27 15:30)
+  ✔ qr @done(21-03-27 15:36)
+  ✔ citys @done(21-03-27 15:52)
+  ✔ scroller @done(21-03-29 19:34)
+  ✔ tabs @done(21-03-29 19:34)
+  ✔ 可选列表：单选 @started(21-04-13 13:50) @done(21-04-13 13:50) @lasted(9s)
+  ✔ 本地验证码 @done(21-04-13 15:55)
+  ✔ html-to-canvas @done(21-04-18 13:40)
+  ✔ wxml-to-canvas @done(21-04-18 17:50)
+  ✔ canvas 多语言 @done(21-04-18 13:39)
+  ✔ 拼图验证 @done(21-04-22 18:13)
+  ✔ wb-layer 尝试通过 vusui-layer.css 来新增皮肤 @done(21-04-14 10:39)
+
+JS方法:
+  ✘ 数组方法扩展：参考 https://www.graceui.com/v5/info/10119-210.html @cancelled(21-04-13 17:02)
+  ✔ image base64 @done(21-04-18 13:39)
+
+组件Demo:
+  ✔ navbar @done(21-03-26 16:57)
+  ✔ empty @done(21-03-26 16:57)
+  ✔ button @done(21-03-26 17:26)
+  ✔ wb-layer @done(21-03-26 17:35)
+  ✔ loading @done(21-03-26 19:14)
+  ✔ page @done(21-03-27 14:38)
+  ✘ checkBtn @cancelled(21-03-27 15:29)
+  ✔ qr @done(21-03-27 15:36)
+  ✔ citys @done(21-03-27 15:52)
+  ✔ scroller @done(21-03-29 19:35)
+  ✔ tabs + scroller @done(21-03-29 19:35)
+  ✔ 可选列表：单选 @done(21-04-13 13:50)
+  ✔ 本地验证码 @done(21-04-13 16:19)
+  ✔ html-to-canvas @done(21-04-18 14:32)
+  ✔ wxml-to-canvas @done(21-04-18 17:50)
+  ✔ 拼图验证 @done(21-04-22 18:13)
+
+文档:
+  ✔ 基础部分 @done(21-03-31 17:14)
+  ✔ css部分 @done(21-03-31 17:14)
+  ✔ 指南部分更详细的入手指南 @done(21-04-13 16:39)
+  ☐ 继续完善文档中的组件优先级
+  ✔ 设置中增加 如何扩展自定义图标 @done(21-04-17 20:08)
+  ✔ js部分 @done(21-04-01 15:24)
+    ✔ until @done(21-04-12 15:00)
+    ✔ image base64 @done(21-04-18 15:02)
+  组件:
+    ✘ 每个组件中增加对应demo地址 @cancelled(21-04-17 20:03)
+    ☐ 组件文档，发现了新的问题与需要，继续逐步完善
+    ✔ navbar @done(21-04-05 15:53)
+    ✔ empty @done(21-04-04 16:57)
+    ✔ button @done(21-04-04 12:25)
+    ✔ wb-layer 通过示例部分来制作 @done(21-04-12 17:41)
+    ✔ loading @done(21-04-04 16:57)
+    ✔ page @done(21-04-05 15:53)
+    ✔ scroller @done(21-04-11 16:48)
+      ✔ 插槽作用域 @done(21-04-11 16:49)
+    ✔ tabs @done(21-04-11 20:43)
+      ✔ 文档还需要说明item项的属性 @done(21-04-11 20:43)
+      ✔ 配合 swiper 使用 滑动的两种方式 @done(21-04-11 20:43)
+    ✘ checkBtn @cancelled(21-03-27 15:29)
+    ✔ qr @done(21-04-12 11:05)
+    ✔ citys @done(21-04-12 14:45)
+    ✔ html-to-canvas @done(21-04-18 16:47)
+    ✔ wxml-to-canvas @done(21-04-19 11:07)
+    ✔ 拼图验证 @done(21-04-22 18:14)
+
+bug:
+  ☐ navbar 在 nvue下不能用了，但是单独的项目是可以的。。。
+
+
+项目模板:
+  ✔ 底部导航栏的名称 @done(21-04-11 21:44)
+  ✔ 底部导航栏的图标 @done(21-04-12 15:00)
+  ✔ 其他示例中增加切换语言示例 @done(21-04-13 16:39)
+
+发布:
+  ✔ h5演示 @done(21-04-11 21:42)
+  ✔ 文档 @done(21-04-11 21:42)
