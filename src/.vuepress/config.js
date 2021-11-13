@@ -23,7 +23,7 @@ module.exports = {
       {
         text: "GitHub",
         link: "https://github.com/Jefferic66/wb-uni-template",
-        icon: "reco-mayun",
+        icon: "reco-github",
       },
     ],
     sidebar: {
